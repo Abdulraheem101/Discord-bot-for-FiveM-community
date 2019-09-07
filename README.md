@@ -14,6 +14,10 @@ Token: [Create a bot](https://discordapp.com/developers/applications/), copy you
 
 Server info: Replace the default ip address and port with your FiveM server connection informations.
 
+## Requirements
+
+[Install NodeJS](https://nodejs.org/en/download/)
+
 ## Contact 
 
 Steam: https://steamcommunity.com/id/kasperrasmussen/
