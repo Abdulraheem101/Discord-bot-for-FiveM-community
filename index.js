@@ -16,6 +16,7 @@ client.login(configs.token)
   .then(
     () => {
       console.log("Bot startet!");
+      console.log("Receiving information, please wait...");
     },
     () => {
       client.destroy();

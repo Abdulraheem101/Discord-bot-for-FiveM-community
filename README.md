@@ -1,8 +1,9 @@
 # Discord bot for FiveM community
 
-### Discord: https://discord.gg/uPQfJuu
+## Preview
 
-<a href="https://discord.gg/uPQfJuu"><img src="https://kasper-rasmussen.dk/assets/images/icons/discord_logo.png" /></a>
+<img src="https://kasper-rasmussen.dk/assets/images/discord_bot/1.png" />
+<img src="https://kasper-rasmussen.dk/assets/images/discord_bot/2.png" />
 
 ## Configurations
 
@@ -17,6 +18,10 @@ Server info: Replace the default ip address and port with your FiveM server conn
 ## Requirements
 
 [Install NodeJS](https://nodejs.org/en/download/)
+
+## Discord: https://discord.gg/uPQfJuu
+
+<a href="https://discord.gg/uPQfJuu"><img src="https://kasper-rasmussen.dk/assets/images/icons/discord_logo.png" /></a>
 
 ## Contact 
 
